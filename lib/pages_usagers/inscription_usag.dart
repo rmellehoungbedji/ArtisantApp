@@ -56,10 +56,10 @@ return Scaffold(
                 ),
                  new TextFormField(
                 controller: textController,
-                keyboardType:
+                /*keyboardType:
                     TextInputType.text, 
                 decoration: new InputDecoration(
-                    hintText: 'adresse', labelText: 'Adresse'),
+                    hintText: 'adresse', labelText: 'Adresse'),*/
                 ),
                 new Container(
                     child: new RaisedButton(
