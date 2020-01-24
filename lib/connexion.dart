@@ -49,7 +49,7 @@ return Scaffold(
                         child: new Text('Connexion'),
                         onPressed: logIn,
                     ),
-                    margin: new EdgeInsets.only(top: 20.0),
+                   // margin: new EdgeInsets.only(top: 20.0),
                 ),
             ],
         ),
